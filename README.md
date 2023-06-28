@@ -9,18 +9,18 @@ The system allows them to keep the data of all election campaigns in an orderly 
 Using this data, relevant professionals will be able to use the data for many uses.
 
 Before the election, preliminary preparations:
-  Add ballots.
-  Adding parties.
-  Adding citizens.
+  Add ballots,
+  Adding parties,
+  Adding citizens and
   Adding  candidates to a particular party.
 
 During the election, The ballots are responsible to enter:
   For each citizen:
-    Did he vote?
+    Did he vote? 
     If so, to which party?
 
 At the end of the elections, The program presents the election results as follows:
-  How many votes each party received from each ballot.
+  How many votes each party received from each ballot and
   How many votes in total did each party receive.
 
 
